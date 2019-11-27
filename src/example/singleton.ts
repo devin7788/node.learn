@@ -29,7 +29,6 @@ class SingletonClass {
         this._score -= value;
     }
 
-
 }
 
 var scoreManager = SingletonClass.getInstance();
