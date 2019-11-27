@@ -1,4 +1,4 @@
-import generateRandomArray from "../sortTestHelper/sortTestHelper";
+import generateRandomArray from "../sort_test_helper/sortTestHelper";
 import 'mocha';
 import * as should from 'should'
 describe('generate rand num test', function () {
