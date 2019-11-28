@@ -7,3 +7,5 @@
   npm install -D ts-http 
   
   node-js npm : C:\Program Files\nodejs\node_modules
+  
+  npm prune: remove deperated package
