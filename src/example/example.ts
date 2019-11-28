@@ -27,11 +27,9 @@ export function MapExample() {
     console.log(map.size);
 
     const maparr = Array.from(map.values());
-    // for(let i=0;i<maparr.length;i++){
-    //
-    //     console.log(maparr[i]);
-    //
-    // }
+    for(let i=0;i<maparr.length;i++){
+        console.log(maparr[i]);
+    }
 
     let x = map.entries();
     // console.log(x.next());

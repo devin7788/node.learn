@@ -13,5 +13,4 @@
 // });
 
 import {MapExample} from "./example/example";
-
 MapExample();
