@@ -7,3 +7,6 @@
   npm install -D ts-http 
   
   node-js npm : C:\Program Files\nodejs\node_modules
+  cnpm install -D typescript-collections
+  cnpm uinstall nodeom
+  
