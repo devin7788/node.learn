@@ -1,6 +1,7 @@
 import generateRandomArray from "../sort_test_helper/sortTestHelper";
 import 'mocha';
 import * as should from 'should'
+
 describe('generate rand num test', function () {
     it('test case 1', function () {
         const arr = generateRandomArray(10, 100, 105);

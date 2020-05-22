@@ -43,8 +43,6 @@ function ExampleArray() {
     // 定义
 // const arr: number[] = [];   //  限定元素类型
 // const arr2: any[] = []   //  不限定元素类型
-
-
     const arr: Array<number | string>  = [] ;     //  复合元素类型
 
 //  增
