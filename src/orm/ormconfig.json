@@ -15,5 +15,7 @@
   ],
   "subscribers": [
     "src/orm/subscriber/**/*.ts"
-  ]
+  ],
+  "emitDecoratorMetadata": true,
+  "experimentalDecorators": true
 }
